@@ -1,0 +1,16 @@
+.todo-filter {
+    margin-bottom: 20px;
+  }
+  
+  .todo-filter button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .todo-filter button.active {
+    background-color: #4CAF50;
+    color: white;
+  }
